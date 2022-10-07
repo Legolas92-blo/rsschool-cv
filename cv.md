@@ -7,6 +7,8 @@
 * **Discord**: 
 <hr />
 
+####About myself:
+I want to develop as a frontend developer with backend knowledge.
 
 ####Skills:
 * HTML5
