@@ -2,7 +2,7 @@
 
 <img src='image/avatar.jpg' width='200px' alt='Asya'>
 
-####Contacts
+#### Contacts
 * **E-mail**: asya2100@gmail.com
 * **Discord**: 
 <hr />
@@ -10,7 +10,7 @@
 #### About myself:
 I want to develop as a frontend developer with backend knowledge.
 
-####Skills:
+#### Skills:
 * HTML5
 * CSS3
 
