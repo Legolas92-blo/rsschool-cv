@@ -7,7 +7,7 @@
 * **Discord**: 
 <hr />
 
-####About myself:
+#### About myself:
 I want to develop as a frontend developer with backend knowledge.
 
 ####Skills:
@@ -15,21 +15,21 @@ I want to develop as a frontend developer with backend knowledge.
 * CSS3
 
 
-####Course and Education:
+#### Course and Education:
 * Web-technologies: Entry level (in progress);
 * JS/FE Course EN 2022Q3;
 * YouTube course - 'Фрілансер по життю';
 
 
 
-####Code example
+#### Code example
 ```
 function multiply(a, b){
   return a * b;
 }
 ```
 
-####Language:
+#### Language:
 English - A2
 
 
