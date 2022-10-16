@@ -1,12 +1,10 @@
-#Asya Beladidze
+<img src='image/avatar.jpg' width='100px' alt='Asya' style='border-radius: 50%; text-alighn:center;'>
 
-<img src='image/avatar.jpg' width='200px' alt='Asya'>
+#Asya Beladidze
 
 ####Contacts
 * **E-mail**: asya2100@gmail.com
-* **Discord**: 
 <hr />
-
 ####About myself:
 I want to develop as a frontend developer with backend knowledge.
 
@@ -22,7 +20,7 @@ I want to develop as a frontend developer with backend knowledge.
 
 
 
-####Code example
+#### Code example
 ```
 function multiply(a, b){
   return a * b;
@@ -30,6 +28,7 @@ function multiply(a, b){
 ```
 
 ####Language:
+Russian 
 English - A2
 
 
