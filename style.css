@@ -1,0 +1,109 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+ul li {
+	list-style-type: none;
+}
+a {
+	color: inherit;
+}
+body {
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	box-sizing: border-box;
+}
+
+/*---------HEADER---------*/
+
+.header {
+}
+.container {
+	width: 1000px;
+	margin: 0 auto;
+	padding: 10px;
+	/* background-color: #33cccc; */
+}
+.header__container {
+	background-color: #fed78c;
+	display: flex;
+}
+.photo {
+	margin: 0 150px 0 0;
+	max-width: 200px;
+}
+.wrapper__info {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: flex-start;
+}
+
+.name {
+	margin: 0 0 10px 0;
+}
+.position {
+	margin: 0 0 25px 0;
+	font-weight: bold;
+}
+.contacts {
+}
+.contacts__items {
+}
+.contacts__item {
+}
+
+.contacts__item:not(:last-child) {
+	margin: 0 0 5px 0;
+}
+
+.contacts__link {
+	display: flex;
+	justify-content: flex-start;
+	align-items: flex-end;
+}
+
+.contacts__link img {
+	display: inline-block;
+	width: 24px;
+	height: 24px;
+	margin: 0 5px 0 0;
+}
+.icon__discord {
+}
+.icon__gmail {
+	border-radius: 50%;
+	background-color: #fff;
+}
+.icon__github {
+	background-color: #fff;
+	border-radius: 50%;
+}
+
+/*-------------MAIN-------------*/
+
+.skills {
+}
+.skills__container {
+}
+
+.icon {
+	max-width: 50px;
+	max-height: 50px;
+}
+.title {
+	display: inline-block;
+	margin: 0 0 10px 0;
+}
+
+hr {
+	margin: 5px 0;
+}
+.items {
+}
+.items li {
+	list-style-type: square;
+	list-style-position: inside;
+}
+.item:not(:last-child) {
+	margin: 0 0 10px 0;
+}
