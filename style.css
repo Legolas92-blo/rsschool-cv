@@ -25,6 +25,8 @@ body {
 	width: 1000px;
 	margin: 0 auto;
 	padding: 20px;
+	/* background-color: rgb(87, 77, 77, 0.5); */
+	background-color: #f6ede6;
 }
 
 /*---------HEADER---------*/
@@ -33,18 +35,22 @@ body {
 }
 
 .header__container {
-	background-color: #fed78c;
+	/* background-color: #fed78c; */
+	background-color: #333030;
 	display: flex;
+	border-radius: 10px 10px 0 0;
 }
 .photo {
 	margin: 0 150px 0 0;
 	max-width: 200px;
+	border-radius: 50%;
 }
 .wrapper__info {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
 	align-items: flex-start;
+	color: #e6d1c0;
 }
 
 .name {
@@ -90,8 +96,9 @@ main {
 .about-myself {
 }
 .about-myself__container {
-	padding: 10px;
+	background-color: #fed78c; 
 }
+
 .about--myself__text {
 }
 
@@ -142,6 +149,7 @@ hr {
 	display: flex;
 	justify-content: space-between;
 	align-items: flex-end;
+	border-radius: 0 0 10px 10px;
 }
 
 .footer__github {
