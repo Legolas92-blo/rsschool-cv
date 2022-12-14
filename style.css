@@ -26,7 +26,7 @@ body {
 .container {
 	width: 900px;
 	margin: 0 auto;
-	padding: 20px 50px;
+	padding: 10px 50px;
 }
 
 .wrapper {
@@ -229,7 +229,6 @@ section {
 	border-radius: 5px;
 }
 /*--------FOOTER-------*/
-
 .footer__container {
 	min-height: 100px;
 	display: flex;
@@ -240,12 +239,6 @@ section {
 
 .footer__github {
 	margin: 0 0 20px 0;
-}
-.footer__github {
-	transition: 0.3s;
-}
-.footer__github:hover .icon__github {
-	background-color: #fed78c;
 }
 
 .github__link {
