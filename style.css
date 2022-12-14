@@ -14,26 +14,32 @@ a {
 
 html,
 body {
-	min-height: 100vh;
+	height: 100%;
 	margin: 0;
 	padding: 0;
 	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 	box-sizing: border-box;
+	background-color: #f6ede6;
 }
+
 
 .container {
 	width: 900px;
 	margin: 0 auto;
-	padding: 20px 50px;
-	/* background-color: rgb(87, 77, 77, 0.5); */
-	background-color: #f6ede6;
+	padding: 10px 50px;
 }
 
+.wrapper {
+	min-height: 100%;
+	display: flex;
+	flex-direction: column;
+}
 /*---------HEADER---------*/
-
-.header__container {
-	/* background-color: #fed78c; */
+.header {
 	background-color: #333030;
+	padding: 10px 0;
+}
+.header__container {
 	display: flex;
 	border-radius: 10px 10px 0 0;
 }
@@ -100,6 +106,9 @@ body {
 section {
 	padding: 12px;
 }
+.main {
+	flex: 1 1 auto;
+}
 .main__wrap {
 	display: grid;
 	grid-template: repeat(3, 33.333%) / repeat(2, 50%);
@@ -115,7 +124,7 @@ section {
 	vertical-align: middle;
 }
 .title {
-	margin: 0 0 10px 0; 
+	margin: 0 0 15px 0; 
 	background-color: #e6d1c0;
 	line-height: 200%;
 	box-shadow:  10px 5px 5px #fed78c ;
@@ -221,7 +230,6 @@ section {
 	border-radius: 5px;
 }
 /*--------FOOTER-------*/
-
 .footer__container {
 	min-height: 100px;
 	display: flex;
@@ -230,15 +238,6 @@ section {
 	border-radius: 0 0 10px 10px;
 }
 
-.footer__github {
-	margin: 0 0 20px 0;
-}
-.footer__github {
-	transition: 0.3s;
-}
-.footer__github:hover .icon__github {
-	background-color: #fed78c;
-}
 
 .github__link {
 	display: inline-block;
@@ -253,6 +252,8 @@ section {
 
 .rsschool__date {
 	margin: 0 20px 0 0;
+	font-weight: 700;
+	font-size: 20px;
 }
 
 .icon__rsschool {
