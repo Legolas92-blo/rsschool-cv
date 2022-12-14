@@ -37,6 +37,7 @@ body {
 /*---------HEADER---------*/
 .header {
 	background-color: #333030;
+	padding: 10px 0;
 }
 .header__container {
 	display: flex;
@@ -123,7 +124,7 @@ section {
 	vertical-align: middle;
 }
 .title {
-	margin: 0 0 10px 0; 
+	margin: 0 0 15px 0; 
 	background-color: #e6d1c0;
 	line-height: 200%;
 	box-shadow:  10px 5px 5px #fed78c ;
@@ -237,9 +238,6 @@ section {
 	border-radius: 0 0 10px 10px;
 }
 
-.footer__github {
-	margin: 0 0 20px 0;
-}
 
 .github__link {
 	display: inline-block;
@@ -254,6 +252,8 @@ section {
 
 .rsschool__date {
 	margin: 0 20px 0 0;
+	font-weight: 700;
+	font-size: 20px;
 }
 
 .icon__rsschool {
