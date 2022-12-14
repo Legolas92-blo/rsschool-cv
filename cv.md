@@ -1,4 +1,4 @@
-<img src='../image/avatar.jpg' width='100px' alt='Asya' style='border-radius: 50%; text-alighn:center;'>
+<img src='image/Jeki-Chan.jpg' width='100px' alt='Asya' style='border-radius: 50%; text-alighn:center;'>
 
 # Asya Beladidze
 
