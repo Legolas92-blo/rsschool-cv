@@ -1,19 +1,22 @@
-<img src='image/avatar.jpg' width='100px' alt='Asya' style='border-radius: 50%; text-alighn:center;'>
+<img src='../image/avatar.jpg' width='100px' alt='Asya' style='border-radius: 50%; text-alighn:center;'>
 
-#Asya Beladidze
+# Asya Beladidze
 
-####Contacts
+#### Contacts
 * **E-mail**: asya2100@gmail.com
 <hr />
-####About myself:
+#### About myself:
+
 I want to develop as a frontend developer with backend knowledge.
 
-####Skills:
+#### Skills:
+
 * HTML5
 * CSS3
 
 
-####Course and Education:
+#### Course and Education:
+
 * Web-technologies: Entry level (in progress);
 * JS/FE Course EN 2022Q3;
 * YouTube course - 'Фрілансер по життю';
@@ -27,8 +30,9 @@ function multiply(a, b){
 }
 ```
 
-####Language:
-Russian 
-English - A2
+#### Language:
+
+* Russian - Native
+* English - A2
 
 
